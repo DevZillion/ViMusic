@@ -324,7 +324,7 @@ fun QuickPicks(
                 Unit
             } ?: relatedPageResult?.exceptionOrNull()?.let {
                 BasicText(
-                    text = stringResource(R.string.OcurredError),
+                    text = stringResource(R.string.OccurredError),
                     style = typography.s.secondary.center,
                     modifier = Modifier
                         .align(Alignment.CenterHorizontally)

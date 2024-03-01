@@ -18,7 +18,7 @@
     <string name="RelatedAlbums">Related albums</string>
     <string name="SimilarArtists">Similar artists</string>
     <string name="PlaylistsMightLike">Playlists you might like</string>
-    <string name="OcurredError">An error has occurred</string>
+    <string name="OccurredError">An error has occurred</string>
     <string name="BuiltInPlaylistFavorites">Favorites</string>
     <string name="BuiltInPlaylistOffline">Offline</string>
     <string name="Enqueue">Enqueue</string>

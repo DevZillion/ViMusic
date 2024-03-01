@@ -18,7 +18,7 @@
     <string name="RelatedAlbums">Álbumes relacionados</string>
     <string name="SimilarArtists">Artistas similares</string>
     <string name="PlaylistsMightLike">Listas que te podrían gustar</string>
-    <string name="OcurredError">Ha ocurrido un error</string>
+    <string name="OccurredError">Ha ocurrido un error</string>
     <string name="BuiltInPlaylistFavorites">Favoritos</string>
     <string name="BuiltInPlaylistOffline">Sin conexión</string>
     <string name="Enqueue">Añadir a cola</string>

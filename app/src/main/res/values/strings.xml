@@ -35,4 +35,7 @@
     <string name="ScaffoldSingles">Singles</string>
     <string name="ScaffoldLibrary">Library</string>
     <string name="EmptyReleases">This artist didn\'t release any album</string>
+    <string name="SearchHint">Search...</string>
+    <string name="Online">Online</string>
+    <string name="Library">Library</string>
 </resources>
